@@ -13,7 +13,7 @@ Run these commands:
 
 `node app.js`
 
-or Run by docker compose
+and Run by docker compose
 
 test
 
